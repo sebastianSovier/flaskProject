@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Notas</title>
+</head>
+<body>
+<div class="container">
+    <form method="post">
+    <div class="form-group"  >
+        <label for="nota1">Nota 1:</label>
+        <input type="number" name="nota1" value="{{notas.nota1}}" min="10" max="70"/>
+    </div>
+    <div class="form-group">
+         <label for="nota2">Nota 2:</label>
+        <input type="number" name="nota2" value="{{notas.nota2}}" min="10" max="70"/>
+    </div>
+    <div class="form-group">
+         <label for="nota3">Nota 3:</label>
+        <input type="number" name="nota3" value="{{notas.nota3}}"  min="10" max="70"/>
+    </div >
+         <div class="form-group">
+         <label for="asistencia">Asistencia (%):</label>
+        <input type="number" value="{{notas.asistencia}}" name="asistencia" min="0" max="100"/>
+    </div>
+    <div class="form-group"><input type="submit" value="Enviar"></div>
+        </form>
+</div>
+
+<div >
+    <label >
+        {{ promedio }}
+    </label>
+    <label >{{ estado }}</label>
+</div>
+
+</body>
+</html>
