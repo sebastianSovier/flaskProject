@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1edf96a8-03d6-4b54-ab54-74c8f1149f2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EV3_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="1edf96a8-03d6-4b54-ab54-74c8f1149f2b" name="Changes" comment="ev3 avance">
+      <change afterPath="$PROJECT_DIR$/app/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/Inicio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/formulario1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/formulario1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/formulario2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/formulario2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gamer/Desktop/flaskProject-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -48,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gamer\Desktop\IPLACEX\4BIMESTRE\PROGRAMACION WEB\EV2\EV3_Python\app\static\css" />
       <recent name="C:\Users\Gamer\Desktop\IPLACEX\4BIMESTRE\PROGRAMACION WEB\EV2\EV3_Python\app" />
     </key>
   </component>
@@ -97,13 +98,37 @@
       <option name="presentableId" value="Default" />
       <updated>1702924280868</updated>
       <workItem from="1702924285177" duration="1221000" />
+      <workItem from="1702988817640" duration="387000" />
+      <workItem from="1702989854427" duration="1866000" />
     </task>
+    <task id="LOCAL-00001" summary="ev3">
+      <option name="closed" value="true" />
+      <created>1702988950963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702988950963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ev3 avance">
+      <option name="closed" value="true" />
+      <created>1702988997825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702988997825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ev3" />
+    <MESSAGE value="ev3 avance" />
+    <option name="LAST_COMMIT_MESSAGE" value="ev3 avance" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EV3_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1702924908770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/EV3_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1702990473666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>

@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Ejercicio 2</title>
+     <link rel="stylesheet"  href="/static/css/styles.css">
 </head>
 <body>
 <div class="container">
+    <h1>Ejercicio 2</h1>
  <form method="POST">
     <div class="form-group"  >
         <label for="nombre1">Nombre 1:</label>
@@ -21,12 +23,13 @@
     </div>
     <div class="form-group"><input type="submit" value="Enviar"></div>
         </form>
-    </div>
-{% if maxNombre != '' %}
+    {% if maxNombre != '' %}
 <label >El nombre con mayor cantidad de caracteres es: {{ maxNombre }}</label>
 {% endif %}
 {% if cantCaracteres > 0 %}
 <label >El nombre contiene : {{ cantCaracteres }}</label>
 {% endif %}
+    </div>
+
 </body>
 </html>
