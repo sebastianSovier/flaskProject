@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1edf96a8-03d6-4b54-ab54-74c8f1149f2b" name="Changes" comment="ev3 avance">
-      <change afterPath="$PROJECT_DIR$/app/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/Inicio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/formulario1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/formulario1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/formulario2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/formulario2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +95,7 @@
       <updated>1702924280868</updated>
       <workItem from="1702924285177" duration="1221000" />
       <workItem from="1702988817640" duration="387000" />
-      <workItem from="1702989854427" duration="1866000" />
+      <workItem from="1702989854427" duration="2661000" />
     </task>
     <task id="LOCAL-00001" summary="ev3">
       <option name="closed" value="true" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702988997825</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ev3 avance">
+      <option name="closed" value="true" />
+      <created>1702993871049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702993871049</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
